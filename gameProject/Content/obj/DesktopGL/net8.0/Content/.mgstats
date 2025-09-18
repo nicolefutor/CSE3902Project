@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/nicolefutoryansky/Documents/CSE3902/gameProject/gameProject/Content/Arial.spritefont","/Users/nicolefutoryansky/Documents/CSE3902/gameProject/gameProject/Content/bin/DesktopGL/Content/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",464,21529,0.184651
+"/Users/nicolefutoryansky/Documents/CSE3902/gameProject/gameProject/Content/marioSpritesheet.png","/Users/nicolefutoryansky/Documents/CSE3902/gameProject/gameProject/Content/bin/DesktopGL/Content/marioSpritesheet.xnb","TextureProcessor","Texture2DContent",90617,2447453,0.351163
