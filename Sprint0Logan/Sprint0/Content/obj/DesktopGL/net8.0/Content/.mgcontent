@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/logan/source/repos/Sprint0/Sprint0/Content/deadLuigi.png</File>
+    <File>C:/Users/logan/source/repos/Sprint0/Sprint0/Content/luigiRunning.png</File>
+    <File>C:/Users/logan/source/repos/Sprint0/Sprint0/Content/luigiSheet.gif</File>
+    <File>C:/Users/logan/source/repos/Sprint0/Sprint0/Content/staticLuigi.png</File>
+    <File>C:/Users/logan/source/repos/Sprint0/Sprint0/Content/textFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
