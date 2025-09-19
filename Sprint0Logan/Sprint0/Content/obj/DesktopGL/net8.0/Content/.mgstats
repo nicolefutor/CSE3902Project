@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/logan/source/repos/Sprint0/Sprint0/Content/deadLuigi.png","C:/Users/logan/source/repos/Sprint0/Sprint0/Content/bin/DesktopGL/Content/deadLuigi.xnb","TextureProcessor","Texture2DContent",227,869,0.1048106
+"C:/Users/logan/source/repos/Sprint0/Sprint0/Content/luigiRunning.png","C:/Users/logan/source/repos/Sprint0/Sprint0/Content/bin/DesktopGL/Content/luigiRunning.xnb","TextureProcessor","Texture2DContent",771,4053,0.102049
+"C:/Users/logan/source/repos/Sprint0/Sprint0/Content/luigiSheet.gif","C:/Users/logan/source/repos/Sprint0/Sprint0/Content/bin/DesktopGL/Content/luigiSheet.xnb","TextureProcessor","Texture2DContent",5281,180013,0.1586588
+"C:/Users/logan/source/repos/Sprint0/Sprint0/Content/staticLuigi.png","C:/Users/logan/source/repos/Sprint0/Sprint0/Content/bin/DesktopGL/Content/staticLuigi.xnb","TextureProcessor","Texture2DContent",227,853,0.0021836
+"C:/Users/logan/source/repos/Sprint0/Sprint0/Content/textFont.spritefont","C:/Users/logan/source/repos/Sprint0/Sprint0/Content/bin/DesktopGL/Content/textFont.xnb","FontDescriptionProcessor","SpriteFontContent",2081,37913,0.1555896

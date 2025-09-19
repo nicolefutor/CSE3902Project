@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Sprint0</id>
+    <version>1.0.0</version>
+    <authors>Sprint0</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="MonoGame.Content.Builder.Task" version="3.8.4" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Framework.DesktopGL" version="3.8.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net8.0/Content/bin/DesktopGL/Content/deadLuigi.xnb" buildAction="Content" />
+      <files include="any/net8.0/Content/bin/DesktopGL/Content/luigiRunning.xnb" buildAction="Content" />
+      <files include="any/net8.0/Content/bin/DesktopGL/Content/luigiSheet.xnb" buildAction="Content" />
+      <files include="any/net8.0/Content/bin/DesktopGL/Content/staticLuigi.xnb" buildAction="Content" />
+      <files include="any/net8.0/Content/bin/DesktopGL/Content/textFont.xnb" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\logan\source\repos\Sprint0\Sprint0\bin\Debug\net8.0\Sprint0.runtimeconfig.json" target="lib\net8.0\Sprint0.runtimeconfig.json" />
+    <file src="C:\Users\logan\source\repos\Sprint0\Sprint0\bin\Debug\net8.0\Sprint0.dll" target="lib\net8.0\Sprint0.dll" />
+    <file src="C:\Users\logan\source\repos\Sprint0\Sprint0\Content\bin\DesktopGL\Content\deadLuigi.xnb" target="content\Content\bin\DesktopGL\Content\deadLuigi.xnb" />
+    <file src="C:\Users\logan\source\repos\Sprint0\Sprint0\Content\bin\DesktopGL\Content\deadLuigi.xnb" target="contentFiles\any\net8.0\Content\bin\DesktopGL\Content\deadLuigi.xnb" />
+    <file src="C:\Users\logan\source\repos\Sprint0\Sprint0\Content\bin\DesktopGL\Content\luigiRunning.xnb" target="content\Content\bin\DesktopGL\Content\luigiRunning.xnb" />
+    <file src="C:\Users\logan\source\repos\Sprint0\Sprint0\Content\bin\DesktopGL\Content\luigiRunning.xnb" target="contentFiles\any\net8.0\Content\bin\DesktopGL\Content\luigiRunning.xnb" />
+    <file src="C:\Users\logan\source\repos\Sprint0\Sprint0\Content\bin\DesktopGL\Content\luigiSheet.xnb" target="content\Content\bin\DesktopGL\Content\luigiSheet.xnb" />
+    <file src="C:\Users\logan\source\repos\Sprint0\Sprint0\Content\bin\DesktopGL\Content\luigiSheet.xnb" target="contentFiles\any\net8.0\Content\bin\DesktopGL\Content\luigiSheet.xnb" />
+    <file src="C:\Users\logan\source\repos\Sprint0\Sprint0\Content\bin\DesktopGL\Content\staticLuigi.xnb" target="content\Content\bin\DesktopGL\Content\staticLuigi.xnb" />
+    <file src="C:\Users\logan\source\repos\Sprint0\Sprint0\Content\bin\DesktopGL\Content\staticLuigi.xnb" target="contentFiles\any\net8.0\Content\bin\DesktopGL\Content\staticLuigi.xnb" />
+    <file src="C:\Users\logan\source\repos\Sprint0\Sprint0\Content\bin\DesktopGL\Content\textFont.xnb" target="content\Content\bin\DesktopGL\Content\textFont.xnb" />
+    <file src="C:\Users\logan\source\repos\Sprint0\Sprint0\Content\bin\DesktopGL\Content\textFont.xnb" target="contentFiles\any\net8.0\Content\bin\DesktopGL\Content\textFont.xnb" />
+  </files>
+</package>
